@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "深海遊泳",
+  "base_artist": "JELEE",
+  "createdAt": "2026-03-05T13:04:45.406036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "深海遊泳",
+      "artist": "JELEE",
+      "has_synced": true,
+      "path": "select/01_深海遊泳_JELEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "深海遊泳",
+      "artist": "JELEE",
+      "has_synced": true,
+      "path": "select/02_深海遊泳_JELEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "深海遊泳 - Deep Sea Swimming",
+      "artist": "JELEE",
+      "has_synced": true,
+      "path": "select/03_深海遊泳_-_Deep_Sea_Swimming_JELEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "深海遊泳",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_深海遊泳_JELEE.txt"
+    }
+  ]
+}
